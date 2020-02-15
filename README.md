@@ -2,9 +2,9 @@
 Video Classifiication Paper List
 
 ## Papers
-###Recommendations!##
-###CVPR2019
-###ECCV
+### Recommendations!##
+### CVPR2019
+### ECCV
 
 ## Competitions
 ## Benchmarks
