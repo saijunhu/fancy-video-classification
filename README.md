@@ -2,7 +2,7 @@
 Video Classifiication Paper List
 
 ## Papers 
-### Recommendations!##
+### Recommendations!
 ### CVPR2019
 ### ICCV2019
 - **SlowFast**: Feichtenhofer C, Fan H, Malik J, et al.  
