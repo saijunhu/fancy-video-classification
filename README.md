@@ -3,6 +3,9 @@ Video Classifiication Paper List
 
 ## Papers 
 ### Recommendations!
+### arXiv
+- Cao, Haoyuan, Shining Yu, and Jiashi Feng.  
+"Compressed Video Action Recognition with Refined Motion Vector." arXiv(2019).[[PDF](https://arxiv.org/pdf/1910.02533)]
 ### CVPR2019
 - **Dmc-net**:Shou, Zheng, et al.  
 "Dmc-net: Generating discriminative motion cues for fast compressed video action recognition." CVPR(2019).[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[Code](https://github.com/facebookresearch/dmc-net)]
