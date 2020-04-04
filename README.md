@@ -4,6 +4,8 @@ Video Classifiication Paper List
 ## Papers 
 ### Recommendations!
 ### CVPR2019
+- **Dmc-net**:Shou, Zheng, et al.  
+"Dmc-net: Generating discriminative motion cues for fast compressed video action recognition." CVPR(2019).[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[Code](https://github.com/facebookresearch/dmc-net)]
 ### ICCV2019
 - **SlowFast**: Feichtenhofer C, Fan H, Malik J, et al.  
 "Slowfast Networks for Video Recognition",ICCV(2019 **oral**).[[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf)][[Code](https://github.com/facebookresearch/SlowFast)]
@@ -15,7 +17,7 @@ Video Classifiication Paper List
 ### CVPR 2018
 - **R(2+1)D**: Tran, Du, et al.  
 "A closer look at spatiotemporal convolutions for action recognition." CVPR(2018).[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_A_Closer_Look_CVPR_2018_paper.pdf)][[Code](https://github.com/irhum/R2Plus1D-PyTorch)]
-- **CoViar**:Wu, Chao-Yuan, et al.  
+- **CoViAr**:Wu, Chao-Yuan, et al.  
 "Compressed video action recognition." CVPR(2018).[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)][[Code](https://github.com/chaoyuaw/pytorch-coviar)]
 ### NIPS 2018
 - **TrajectoryNet**: Zhao, Yue, Yuanjun Xiong, and Dahua Lin.  
