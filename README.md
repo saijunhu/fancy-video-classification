@@ -15,6 +15,8 @@ Video Classifiication Paper List
 ### CVPR 2018
 - **R(2+1)D**: Tran, Du, et al.  
 "A closer look at spatiotemporal convolutions for action recognition." CVPR(2018).[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_A_Closer_Look_CVPR_2018_paper.pdf)][[Code](https://github.com/irhum/R2Plus1D-PyTorch)]
+- **CoViar**:Wu, Chao-Yuan, et al.  
+"Compressed video action recognition." CVPR(2018).[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)][[Code](https://github.com/chaoyuaw/pytorch-coviar)]
 ### NIPS 2018
 - **TrajectoryNet**: Zhao, Yue, Yuanjun Xiong, and Dahua Lin.  
 "Trajectory convolution for action recognition." NIPS(2018)[[PDF](http://papers.nips.cc/paper/7489-trajectory-convolution-for-action-recognition.pdf)]
