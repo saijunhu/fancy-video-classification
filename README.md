@@ -39,9 +39,9 @@ Video Classifiication Paper List
 ## Competitions
 
 ## Datasets
-- UCF101[[Official site](https://www.crcv.ucf.edu/data/UCF101.php)] 
-- HMDB51[[Official site](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)]
-- Kinetics[[Official site]](https://deepmind.com/research/open-source/kinetics)(due to the missing videos in kinetics source csv, the 'nolocal net' reseachers offers a pre-downloaded version of kinetics-400,here it's the [relevent issue](https://github.com/facebookresearch/video-nonlocal-net/issues/67))
+- [UCF101](https://www.crcv.ucf.edu/data/UCF101.php)
+- [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+- [Kinetics](https://deepmind.com/research/open-source/kinetics)(due to the missing videos in kinetics source csv, the 'nolocal net' reseachers offer a pre-downloaded version of kinetics-400,here it's the [relevent issue](https://github.com/facebookresearch/video-nonlocal-net/issues/67))
 
 ## Benchmarks
 ## Distinguished Researchers & Teams
