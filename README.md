@@ -47,6 +47,7 @@ Video Classifiication Paper List
 - [Kinetics](https://deepmind.com/research/open-source/kinetics)(due to the missing videos in kinetics source csv, the 'nolocal net' reseachers offer a pre-downloaded version of kinetics-400,here it's the [relevent issue](https://github.com/facebookresearch/video-nonlocal-net/issues/67))
 - [Something-something v2](https://20bn.com/datasets/something-something#download)
 - [Charades](https://prior.allenai.org/projects/charades)
+- [Moments in Time](http://moments.csail.mit.edu/challenge.html)
 
 
 ## Benchmarks
