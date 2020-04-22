@@ -45,17 +45,17 @@ Video Classifiication Paper List
 
 ## Datasets
 - [UCF101](https://www.crcv.ucf.edu/data/UCF101.php)  
-13320 videos, average time ~10s, 101 categories,each class has 25 groups,videos in same group share some common features.
-- [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
-- [Kinetics](https://deepmind.com/research/open-source/kinetics)(due to the missing videos in kinetics source csv, the 'nolocal net' reseachers offer a pre-downloaded version of kinetics-400,here it's the [relevent issue](https://github.com/facebookresearch/video-nonlocal-net/issues/67))
-average ~10s per video
-- [Something-something v2](https://20bn.com/datasets/something-something#download)
-average 2~6s per video, focus on basic atomtic actions.
-- [Charades](https://prior.allenai.org/projects/charades)
+13320 videos; average time ~10s; 101 human action categories,each class has 25 groups,videos in same group share some common features; datasets are not realistic and are staged by actors.
+- [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)  
+6849 videos; average time ~5s; 51 human action categories, each containing a minimum of 101 videos; datasets are most from movies clips, and a small proportion from other public datasets and web videos.
+- [Kinetics](https://deepmind.com/research/open-source/kinetics)(due to the missing videos in kinetics source csv, the 'nolocal net' reseachers offer a pre-downloaded version of kinetics-400,here it's the [relevent issue](https://github.com/facebookresearch/video-nonlocal-net/issues/67))  
+650000 videos; average time ~10s; 700/600/400 human categories, each action class has at least 600 video clips; datasets are most from youtube videos.
+- [Something-something v2](https://20bn.com/datasets/something-something#download)  
+220847 videos; average time 2~6s; 174 human basic action categories; datasets focus the human fine-grined actions,such as "Putting something on a surface".
+- [Charades](https://prior.allenai.org/projects/charades)  
 average ~30s per video, long-term video dataset.
-- [Moments in Time](http://moments.csail.mit.edu/challenge.html)
-average ~3s per video, short-term video dataset.
-
+- [Moments in Time](http://moments.csail.mit.edu/challenge.html)  
+about one millon videos; average time ~3s, involving people, animals, objects or natural phenomena, that capture the gist of a dynamic scene.
 
 ## Benchmarks
 ## Distinguished Researchers & Teams
