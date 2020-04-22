@@ -45,6 +45,7 @@ Video Classifiication Paper List
 
 ## Datasets
 - [UCF101](https://www.crcv.ucf.edu/data/UCF101.php)
+13320 videos, average time ~10s, 101 categories,each class has 25 groups,videos in same group share some common features.
 - [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 - [Kinetics](https://deepmind.com/research/open-source/kinetics)(due to the missing videos in kinetics source csv, the 'nolocal net' reseachers offer a pre-downloaded version of kinetics-400,here it's the [relevent issue](https://github.com/facebookresearch/video-nonlocal-net/issues/67))
 average ~10s per video
