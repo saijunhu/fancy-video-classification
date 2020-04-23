@@ -7,7 +7,7 @@ Video Classifiication Paper List
 - Cao, Haoyuan, Shining Yu, and Jiashi Feng.  
 "Compressed Video Action Recognition with Refined Motion Vector." arXiv(2019).[[PDF](https://arxiv.org/pdf/1910.02533)]
 ### CVPR2020
-- **TEA**:Yan Li, Bin Ji, et al.
+- **TEA**:Yan Li, Bin Ji, et al.  
 "TEA: Temporal Excitation and Aggregation for Action Recognition" CVPR2020[[PDF](https://arxiv.org/pdf/2004.01398)]
 ### CVPR2019
 - **Dmc-net**:Shou, Zheng, et al.  
