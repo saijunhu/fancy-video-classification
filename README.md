@@ -9,7 +9,7 @@ Video Classifiication Paper List
 ### CVPR2020
 - **TEA**:Yan Li, Bin Ji, et al.  
 "TEA: Temporal Excitation and Aggregation for Action Recognition" CVPR(2020)[[PDF](https://arxiv.org/pdf/2004.01398)]
-- **TPN**:Ceyuan Yang, Yinghao Xu, et al.
+- **TPN**:Ceyuan Yang, Yinghao Xu, et al. 
 "TPN: Temporal Pyramid Network for Action Recognition" CVPR(2020)[[PDF](https://arxiv.org/pdf/2004.03548.pdf)][[Code](https://github.com/decisionforce/TPN)] 
 ### CVPR2019
 - **Dmc-net**:Shou, Zheng, et al.  
