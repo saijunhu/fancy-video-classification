@@ -10,7 +10,7 @@ Video Classifiication Paper List
 - **TEA**:Yan Li, Bin Ji, et al.  
 "TEA: Temporal Excitation and Aggregation for Action Recognition" CVPR(2020)[[PDF](https://arxiv.org/pdf/2004.01398)]
 - **TPN**:Ceyuan Yang,Yinghao Xu, et al.
-"TPN: Temporal Pyramid Network for Action Recognition" CVPR(2020)[[PDF]](https://arxiv.org/pdf/2004.03548.pdf)][[Code](https://github.com/decisionforce/TPN)] 
+"TPN: Temporal Pyramid Network for Action Recognition" CVPR(2020)[[PDF](https://arxiv.org/pdf/2004.03548.pdf)][[Code](https://github.com/decisionforce/TPN)] 
 ### CVPR2019
 - **Dmc-net**:Shou, Zheng, et al.  
 "Dmc-net: Generating discriminative motion cues for fast compressed video action recognition." CVPR(2019).[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[Code](https://github.com/facebookresearch/dmc-net)]
